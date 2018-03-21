@@ -1,0 +1,58 @@
+body {
+  background-image: url("../images/circles-dark.png");
+}
+
+.crystal-image {
+  width: 100px;
+  height: 100px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+#logo {
+  color: white;
+  background-color: orange;
+  font-size: 18px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  margin-bottom: 5px;
+  padding-left: 2px;
+  padding-right: 2px;
+}
+
+.ruleblock {
+  background-color: lightgoldenrodyellow;
+  width: 400px;
+}
+
+#rules {
+  color: green;
+  background-color: lightgoldenrodyellow;
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+
+.numbertoguess {
+  background-color: green;
+  width: 150px;
+  height: 90px;
+  float: left;
+  margin-bottom: 5px;
+}
+
+.winloss {
+  background-color: lightblue;
+  height: 90px;
+  width: 80px;
+  display: inline-block;
+  margin-left: 10px;
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+.total-score {
+  color: white;
+  background-color: turquoise;
+  width: 150px;
+  height:50px;
+}
