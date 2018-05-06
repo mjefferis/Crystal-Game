@@ -4,6 +4,5 @@ The app generates a target number and the user is to match that number by clicki
 
 Live: https://mjefferis.github.io/Crystal-Game/
 
-![Screenshot](assets/images/crystal.png)
 
 
