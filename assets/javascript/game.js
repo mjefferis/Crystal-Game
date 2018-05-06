@@ -1,5 +1,4 @@
-
-       //these will be usesd to make our crystal images
+    //these will be usesd to make our crystal images
     var images = ['assets/images/blue.jpeg', 'assets/images/green.jpeg', 'assets/images/yellow.jpeg', 'assets/images/red.jpeg'];
 
     //generate a random variable between 19 and 120
