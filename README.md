@@ -7,7 +7,7 @@ The app generates a target number and the user is to match that number by clicki
 Live Webpage: https://mjefferis.github.io/Crystal-Game/
 
 ## Technologies Used
-Javascript/ jQuery
+Javascript/ jQuery <br/>
 HTML/CSS
 
 
